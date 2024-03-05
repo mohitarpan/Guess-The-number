@@ -9,5 +9,8 @@ const startOver = document.querySelector('.resultParas');
 
 
 const p = document.createElement('p')
- 
+let preGuess =[]
 
+let numGuess = 1
+
+let playgame = true;
